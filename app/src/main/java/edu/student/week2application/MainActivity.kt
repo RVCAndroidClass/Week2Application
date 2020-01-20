@@ -9,7 +9,7 @@ import android.widget.EditText
 import android.widget.TextView
 
 class MainActivity : AppCompatActivity() {
-
+//Start Copying Here
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
@@ -45,4 +45,5 @@ class MainActivity : AppCompatActivity() {
         }
 
     }
+//End Copy
 }
